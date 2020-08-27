@@ -1,7 +1,6 @@
 //const { response } = require("reponse");
 // const request = require("request");
 
-console.log("Clietn side JavaScript in ON!!!!!!");
 
 // fetch("http://puzzle.mead.io/puzzle").then((response) =>{
 //     response.json().then((data)=>{
