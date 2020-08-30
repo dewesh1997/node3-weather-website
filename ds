@@ -1,0 +1,11 @@
+[33mcommit 69919d52f707df350d050356f498833ab17ec5b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dewesh Agarwal <dewesh1997@gmail.com>
+Date:   Thu Aug 27 10:20:48 2020 +0530
+
+    Remove console log
+
+[33mcommit 8c0eabd0b52301075fde5bd1712a16ad1b165049[m
+Author: Dewesh Agarwal <dewesh1997@gmail.com>
+Date:   Thu Aug 27 10:19:04 2020 +0530
+
+    Initial Commit
