@@ -39,7 +39,7 @@ weatherForm.addEventListener("submit",(e)=>{
             } else {
                 console.log(data);
                 messageOne.textContent="";
-                messageTwo.textContent = data.temprature + " " + data.rain + " " + data.location;
+                messageTwo.textContent = data.temprature + " " + data.rain + " " + data.location +" "+ data.line;
             }
         });
 

@@ -12,10 +12,12 @@ const forecast = (latitude, longitude, callback) => {
         } else if(body.error){
             callback("Unable to find location", undefined);
         } else {
+            
             callback(undefined, {
                 temprature: body.current.temperature,
                 rain: body.current.precip,
-                location: body.location.name
+                location: body.location.name,
+                line: "Wind speed: "+body.current.wind_speed
             });
           //  console.log(response.body.features[0].place_name);
         } 
